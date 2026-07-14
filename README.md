@@ -23,6 +23,8 @@ chmod +x build-history.sh
 ./build-history.sh
 ```
 
+**Need to start over?** Just run `./build-history.sh` again and type `y` to reset!
+
 Then start with [EXERCISES.md](./EXERCISES.md)!
 
 ## 📚 What's Included
